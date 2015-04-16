@@ -1,0 +1,21 @@
+#####
+How to compile:
+
+Makefile is included, just need to enter: make hw2
+clean all the *.o file, enter: make clean
+
+######
+How to use:
+The commandline syntax for hw2 is as follows:
+hw2 stream -p=pphrase -l=len
+hw2 encrypt -p=pphrase -out=name [pbmfile]
+hw2 merge pbmfile1 pbmfile2
+hw2 decrypt [pbmfile]
+
+#####
+About the output:
+The output for various commands are as follows.
+stream : The output is a binary stream of bytes.
+encrypt : There is no output for this command. 
+merge : The output of this command is a file in the P4 PBM format.
+decrypt : The output of this command is a file in the P4 PBM format.

@@ -1,0 +1,117 @@
+Kasiski Method
+==============
+len=4, i=26, pos=1170, pos-i=1144, uyhb
+len=4, i=27, pos=1171, pos-i=1144, yhbc
+len=4, i=28, pos=1172, pos-i=1144, hbce
+len=4, i=29, pos=1173, pos-i=1144, bceh
+len=4, i=132, pos=1771, pos-i=1639, hksi
+len=4, i=192, pos=687, pos-i=495, gssj
+len=4, i=230, pos=1011, pos-i=781, hlxs
+len=4, i=230, pos=1187, pos-i=957, hlxs
+len=4, i=231, pos=1188, pos-i=957, lxsm
+len=4, i=302, pos=1435, pos-i=1133, bvxu
+len=4, i=348, pos=1657, pos-i=1309, yubc
+len=4, i=349, pos=1658, pos-i=1309, ubcc
+len=4, i=685, pos=949, pos-i=264, xhgs
+len=4, i=685, pos=1411, pos-i=726, xhgs
+len=4, i=699, pos=1293, pos-i=594, sglg
+len=4, i=802, pos=1220, pos-i=418, kwvl
+len=4, i=822, pos=1339, pos-i=517, lbni
+len=4, i=948, pos=1410, pos-i=462, jxhg
+len=4, i=949, pos=1411, pos-i=462, xhgs
+len=4, i=950, pos=1412, pos-i=462, hgsw
+len=4, i=956, pos=1418, pos-i=462, zpky
+len=4, i=957, pos=1419, pos-i=462, pkyl
+len=4, i=990, pos=1463, pos-i=473, pfou
+len=4, i=1010, pos=1186, pos-i=176, shlx
+len=4, i=1011, pos=1187, pos-i=176, hlxs
+len=4, i=1082, pos=1621, pos-i=539, odlh
+len=4, i=1083, pos=1622, pos-i=539, dlhl
+len=4, i=1084, pos=1623, pos-i=539, lhlz
+len=4, i=1228, pos=1569, pos-i=341, aceh
+len=5, i=26, pos=1170, pos-i=1144, uyhbc
+len=5, i=27, pos=1171, pos-i=1144, yhbce
+len=5, i=28, pos=1172, pos-i=1144, hbceh
+len=5, i=230, pos=1187, pos-i=957, hlxsm
+len=5, i=348, pos=1657, pos-i=1309, yubcc
+len=5, i=948, pos=1410, pos-i=462, jxhgs
+len=5, i=949, pos=1411, pos-i=462, xhgsw
+len=5, i=956, pos=1418, pos-i=462, zpkyl
+len=5, i=1010, pos=1186, pos-i=176, shlxs
+len=5, i=1082, pos=1621, pos-i=539, odlhl
+len=5, i=1083, pos=1622, pos-i=539, dlhlz
+len=6, i=26, pos=1170, pos-i=1144, uyhbce
+len=6, i=27, pos=1171, pos-i=1144, yhbceh
+len=6, i=948, pos=1410, pos-i=462, jxhgsw
+len=6, i=1082, pos=1621, pos-i=539, odlhlz
+len=7, i=26, pos=1170, pos-i=1144, uyhbceh
+len=8, no more matches
+
+Average Index of Coincidence
+============================
+L=1438
+f('a')=50
+f('b')=44
+f('c')=80
+f('d')=40
+f('e')=72
+f('f')=57
+f('g')=48
+f('h')=104
+f('i')=51
+f('j')=46
+f('k')=51
+f('l')=59
+f('m')=49
+f('n')=27
+f('o')=67
+f('p')=68
+f('q')=27
+f('r')=45
+f('s')=61
+f('t')=73
+f('u')=57
+f('v')=66
+f('w')=40
+f('x')=49
+f('y')=46
+f('z')=61
+IC=0.041056791
+t=1, E(IC)=0.065800000
+t=2, E(IC)=0.052121257
+t=3, E(IC)=0.047561676
+t=4, E(IC)=0.045281885
+t=5, E(IC)=0.043914011
+t=6, E(IC)=0.043002095
+t=7, E(IC)=0.042350726
+t=8, E(IC)=0.041862200
+t=9, E(IC)=0.041482234
+t=10, E(IC)=0.041178262
+t=11, E(IC)=0.040929558
+t=12, E(IC)=0.040722304
+t=13, E(IC)=0.040546936
+t=14, E(IC)=0.040396620
+t=15, E(IC)=0.040266346
+t=16, E(IC)=0.040152357
+t=17, E(IC)=0.040051778
+
+Auto-correlation Method
+=======================
+t=1, count=40
+t=2, count=52
+t=3, count=34
+t=4, count=55
+t=5, count=44
+t=6, count=53
+t=7, count=57
+t=8, count=46
+t=9, count=43
+t=10, count=38
+t=11, count=78
+t=12, count=39
+t=13, count=41
+t=14, count=42
+t=15, count=55
+t=16, count=41
+t=17, count=46
+
